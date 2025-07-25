@@ -3,7 +3,7 @@
 
 You can watch a video explanation of this project [HERE](https://pages.github.com/)
 
-![ESP32-MP_front](image/ESP32-MP_front0.jpg)
+![ESP32-MP_front](image/ESP32_MP_front0.jpg)
 
 ### This repo contains a complete project of Audio Player that implements:
 
