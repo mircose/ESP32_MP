@@ -5,7 +5,7 @@ You can watch a video explanation of this project [HERE](https://pages.github.co
 
 ![ESP32-MP_front](image/ESP32_MP_front0.jpg)
 
-### This repo contains a complete project of Audio Player that implements:
+### This repository contains a complete project of Audio Player that implements:
 
 *  Play from SD Card
 *  Streaming from Internet Radio
