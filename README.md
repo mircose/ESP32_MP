@@ -1,7 +1,7 @@
 # ESP32_MP
 ## CD Quality Digital Audio Player and Streamer
 
-You can watch a video explanation of this code [HERE](https://pages.github.com/)
+You can watch a video explanation of this project [HERE](https://pages.github.com/)
 
 ### This repo contains a complete project of Audio Player that implements:
 
