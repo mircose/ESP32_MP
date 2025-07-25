@@ -23,4 +23,5 @@ You can watch a video explanation of this project [HERE](https://pages.github.co
 Supported audio formats: 	MP3, FLAC, OGG, WAV, M4A, AIFF, AAC/AAC+ (up to 48 kHz, 16 bit)  
 Maximum bit rate: 	1440 kbit/s (FLAC, WAV) 320 kbit/s (MP3)
 
-### See the manuals section for complete information
+### User Manuals:
+See the manuals section for complete information
