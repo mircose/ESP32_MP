@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file starting july 2025.
 
 
-## Version 2025.07.28 
+## Version ESP32_MP_20250728_EU.bin
 
 * CHANGELOG created.
 * First public version
