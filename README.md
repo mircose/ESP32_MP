@@ -25,3 +25,6 @@ Maximum bit rate: 	1440 kbit/s (FLAC, WAV) 320 kbit/s (MP3, AAC)
 
 ### User Manuals:
 See the manuals section for complete information
+* User Manual Hardware to understand how to build it
+* User Manual Software with operating instructions
+* User Manual Firmware to understand how to test the hardware and load the firmware
