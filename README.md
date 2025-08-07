@@ -28,3 +28,4 @@ See the manuals section for complete information
 * User Manual Hardware to understand how to build it
 * User Manual Software with operating instructions
 * User Manual Firmware to understand how to test the hardware and load the firmware
+* RMAA ESP32_MP Measure (pre out) with [RMAA Audio Test Software](https://audio.rightmark.org/products/rmaa.shtml)
